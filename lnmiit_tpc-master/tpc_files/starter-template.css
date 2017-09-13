@@ -1,0 +1,142 @@
+
+#footer{
+	padding-left:20px;
+	background-color:#3B444B;
+}
+.wrapper p
+{
+	color:#FFF;
+}
+.footer_header{
+	color:#CCC;
+	font-size:25px;
+}
+
+hr{
+	color:#006;
+}
+
+.float-cont{
+    float:right;
+    text-align: right;
+    transform: 
+}
+
+.logo {
+    font-size: 2em;
+    font-weight: bold;
+}
+.c-wid {
+    width: 100%;
+    width:inherit;
+    padding-top:  0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+.carousel slide{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.container {
+    width: inherit;
+    padding-top:  0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+.navi .navbar .navbar-toggleable-md .fixed-top{
+	background-color:
+        #black;
+    padding-top:  0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.nav-item{
+	color:#FFF;
+    font-family:'Times New Roman';
+    background-color:#black;
+}
+
+
+.main-body{
+    width: inherit;
+    padding-top: 15px;
+    padding-left:5px;
+    padding-right: :15px;
+    padding-bottom:auto;
+}
+.d-pic d-card{
+    border-style: none;
+    border-bottom-width: thin;
+    border-bottom-color: bisque;
+    float:left;
+    width:30px;
+    height:30px;
+    text-align:left;
+    padding-left: 15px;
+}
+.d-pic{
+    width:15em;
+    height: 15em;
+    padding-left: 10px;
+    margin-left: 10px;
+   
+}
+
+.panel-heading {
+    background-color: gainsboro;
+    font-family:'Cormorant SC','Times New Roman';
+    background-color: #3B444B;
+    color:white;
+    font-weight: bolder;
+}
+
+.heading{
+    font-weight:bold;
+    color: darkcyan;
+}
+
+.panel-body {
+    font-family: 'Bellefair','Times New Roman';
+    font-size: 15px;
+    text-align: left;
+}
+
+
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color:#99F;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 20px;
+  margin-top:0px;}
+  .bg-1 { 
+      background-color: #1abc9c; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-4 { 
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
