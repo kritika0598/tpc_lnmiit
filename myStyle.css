@@ -1,0 +1,21 @@
+/*****************************88
+About us
+*****************/
+
+.About-us {
+	border-bottom: solid grey 1px;
+        
+}
+
+.About-us .row.h2{
+    align-content: center;
+}
+
+#content.row
+{
+    color: coral;
+    background-color: bisque;
+}
+.scroll-margin{
+	margin-top: 0px;margin-bottom: 0px;margin-left: 0.6em;padding-top: 0px;padding-bottom: 0px,border-left:2px;border-color:#FF8C00;border-right: none;border-top: none;border-bottom: none;height: 3em;
+}
